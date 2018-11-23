@@ -1,6 +1,6 @@
-TPM_PROJ_PATH=/home/trustinsoft/minghua_folder/tpm_project/tpm2-tss/
-LIBGCRYPT_PATH=/home/trustinsoft/minghua_folder/tpm_project/libgcrypt-1.8.3/
-LIBGPGERROR_PATH=/home/trustinsoft/minghua_folder/tpm_project/libgpg-error-1.32/
+TPM_PROJ_PATH=../../
+LIBGCRYPT_PATH=../../../libgcrypt-1.8.3/
+LIBGPGERROR_PATH=../../../libgpg-error-1.32/
 
 OPT=(
     -gui
